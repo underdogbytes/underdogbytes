@@ -36,7 +36,7 @@ __Portfolio:__ <a href="https://www.behance.net/bridgetocross">behance</a>
 
 <br><br>
 
-<img align="right" width="400" height="600" src="./src/selfie.jpg">
+<img align="right" width="400" height="600" src="./selfie.jpg">
 
 ### 🌸 About me 🦕🌠
 
