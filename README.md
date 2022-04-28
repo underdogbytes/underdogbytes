@@ -32,6 +32,7 @@ __Portfolio:__ <a href="https://btrz.herokuapp.com/">btrz.herokuapp</a>
 ### 🍩 Design Stack
 
 __Software:__ Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
+
 __Portfolio:__ <a href="https://www.behance.net/bridgetocross">behance</a>
 
 <br><br>
