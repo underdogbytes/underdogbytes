@@ -4,8 +4,7 @@
 
 __Portfolio:__ <a href="https://btrz.herokuapp.com/">btrz.herokuapp</a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfhaltz&theme=buefy)](https://github.com/wolfhaltz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfhaltz&theme=buefy)
 
 
 ### 🍩 Design Stack
@@ -14,7 +13,7 @@ __Software:__ Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
 
 __Portfolio:__ <a href="https://www.behance.net/bridgetocross">behance</a>
 
-__Illustrations:__ <a href="[https://www.behance.net/bridgetocross](https://www.deviantart.com/losingmybridge)">devianart</a>
+__Illustrations:__ <a href="https://www.deviantart.com/losingmybridge">devianart</a>
 
 <br>
 
@@ -28,7 +27,7 @@ UI Designer | Software engineer 🌱🐛
 - 🧠 Loves to study human brain
 - 📚 Currently learning japanese
 - 📺🕹️🪐 I love to talk about science, astronomy, games, music and sharks 🦈
-- 📷 I like to shoot people
+- 📷 I like to shoot
 - ⚔️ Enjoy playing RPG as rogue elf
 - 🎧 Indie is my passion
 
