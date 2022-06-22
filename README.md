@@ -66,4 +66,5 @@ See more at: <a href="https://bsideofcode.blogspot.com">bsideofcode.blogspot.com
 _Stay awesome Gotham!_
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfhaltz&theme=dracula&layout=compact)](https://github.com/wolfhaltz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfhaltz&theme=dark&layout=compact)](https://github.com/wolfhaltz/github-readme-stats)
+![Bea's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfhaltz&show_icons=true&theme=dark)
