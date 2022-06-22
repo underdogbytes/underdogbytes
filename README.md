@@ -4,7 +4,9 @@
 
 __Portfolio:__ <a href="https://btrz.herokuapp.com/">btrz.herokuapp</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfhaltz&theme=buefy)
+__Languages:__ Javascript, PHP
+
+__Frameworks:__ Laravel, Vue
 
 
 ### 🍩 Design Stack
