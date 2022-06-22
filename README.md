@@ -4,29 +4,8 @@
 
 __Portfolio:__ <a href="https://btrz.herokuapp.com/">btrz.herokuapp</a>
 
-| Languages  | Database   | Data visualization | Devops  | Testing   |
-| -----------|------------| -------------------|---------|----------:|
-| JavaScript | MySQL      | ChartJS            | AWS     | Selenium  |
-| PHP        | XAMPP      | CanvaJS            | Docker  | Jest      |
-| Python     | PHPMyAdmin |                    | Bash    |           |
-| Java       | Redis      |                    |         |           |
 
-
-|Frontend development | Framework |Static site generator | Mobile  |
-| --------------------|-----------|----------------------|--------:|
-| VueJS               | Laravel   | NuxtJS               | Flutter |
-| React               | Django    |                      | Ionic   |
-| Bootstrap           | Flask     |                      |         |
-| HTML                |           |                      |         |
-| CSS                 |           |                      |         |
-| SASS                |           |                      |         |
-
-
-| Backend development  | Backend as a service | Others   |
-| ---------------------|----------------------| --------:|
-| NodeJS               | Firebase             | Linux    |
-| Spring               |                      | Git      |
-|                      |                      | Postman  |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfhaltz&theme=buefy)](https://github.com/wolfhaltz/github-readme-stats)
 
 
 ### 🍩 Design Stack
@@ -35,19 +14,21 @@ __Software:__ Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
 
 __Portfolio:__ <a href="https://www.behance.net/bridgetocross">behance</a>
 
-<br><br>
+__Illustrations:__ <a href="[https://www.behance.net/bridgetocross](https://www.deviantart.com/losingmybridge)">devianart</a>
+
+<br>
 
 <img align="right" width="400" height="600" src="./selfie.jpg">
 
 ### 🌸 About me 🦕🌠
 
-Full-Stack & UI Designer | Software engineer pleno 🌱🐛
+UI Designer | Software engineer 🌱🐛
 
 - 💹 Career objectives: being a Senior and launching my app BirdHome
 - 🧠 Loves to study human brain
 - 📚 Currently learning japanese
 - 📺🕹️🪐 I love to talk about science, astronomy, games, music and sharks 🦈
-- 📷 I like to photograph
+- 📷 I like to shoot people
 - ⚔️ Enjoy playing RPG as rogue elf
 - 🎧 Indie is my passion
 
@@ -64,6 +45,3 @@ Full-Stack & UI Designer | Software engineer pleno 🌱🐛
 See more at: <a href="https://bsideofcode.blogspot.com">bsideofcode.blogspot.com</a>
 
 _Stay awesome Gotham!_
-
-| ![Bea's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfhaltz&show_icons=true&theme=dark)
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfhaltz&theme=dark&layout=compact)](https://github.com/wolfhaltz/github-readme-stats) :|
