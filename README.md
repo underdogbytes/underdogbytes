@@ -2,47 +2,32 @@
 
 ## 💻 Tech Stack 
 
-__Portfolio:__ <a href="https://btrz.herokuapp.com/">btrz.herokuapp</a>
+__Portfolio:__ [btrz.heroku](https://btrz.herokuapp.com/)
 
-__Languages:__ Javascript, PHP
+__Languages:__ Javascript, PHP 
 
 __Frameworks:__ Laravel, Vue
 
 
-### 🍩 Design Stack
+## 🍩 Design Stack
+
+
+__Portfolio:__ [behance](https://www.behance.net/bridgetocross)
+
+__Illustrations:__ [devianart](https://www.deviantart.com/losingmybridge)
 
 __Software:__ Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
 
-__Portfolio:__ <a href="https://www.behance.net/bridgetocross">behance</a>
 
-__Illustrations:__ <a href="https://www.deviantart.com/losingmybridge">devianart</a>
-
-<br>
-
-<img align="right" width="400" height="600" src="./selfie.jpg">
-
-### 🌸 About me 🦕🌠
+## 🌸 About me 🦕🌠
 
 UI Designer | Software engineer 🌱🐛
 
-- 💹 Career objectives: being a Senior and launching my app BirdHome
-- 🧠 Loves to study human brain
-- 📚 Currently learning japanese
-- 📺🕹️🪐 I love to talk about science, astronomy, games, music and sharks 🦈
-- 📷 I like to shoot
-- ⚔️ Enjoy playing RPG as rogue elf
-- 🎧 Indie is my passion
+<img align="right" width="400" height="600" src="./selfie.jpg">
 
-### 📰 Lastest posts
+- 💹 Career objectives: have no fucking idea, I stoped making plans, just wanna be the best i can be everyday respecting my limits
+- 📺🕹️🪐 Passionate talking about Constantine's universe, human brain, sharks and yo, science bitch! 🦈
+- 📷 Sometimes, I shoot people
+- 🎧 [spotify](https://open.spotify.com/user/22agzvjyx4zninl5oba3tfcty?si=57d6fa61699c4dad)
 
-<!-- BLOG-POST-LIST:START -->
-- [So good they can&#39;t ignore you](https://bsideofcode.blogspot.com/2022/01/so-good-they-cant-ignore-you.html)
-- [Cosmologia e a expansão do Universo](https://bsideofcode.blogspot.com/2021/09/cosmologia-e-expansao-do-universo.html)
-- [O primeiro mentiroso](https://bsideofcode.blogspot.com/2021/06/o-primeiro-mentiroso.html)
-- [Idiomas, idiomas everywhere!](https://bsideofcode.blogspot.com/2021/04/idiomas-idiomas-everywhere.html)
-- [Como tornar a leitura um hábito diário?](https://bsideofcode.blogspot.com/2021/03/como-tornar-leitura-um-habito-diario.html)
-<!-- BLOG-POST-LIST:END -->
-
-See more at: <a href="https://bsideofcode.blogspot.com">bsideofcode.blogspot.com</a>
-
-_Stay awesome Gotham!_
+_There's nothing but the emptiness._
