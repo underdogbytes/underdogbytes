@@ -2,7 +2,7 @@
 
 ## 💻 Tech Stack 
 
-__Portfolio:__ [btrz.heroku](https://btrz.herokuapp.com/)
+__Portfolio:__ [github pages](https://tocrossbridge.github.io)
 
 __Languages:__ Javascript, PHP 
 
