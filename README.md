@@ -2,7 +2,11 @@
 
 ## 💻 Tech Stack 
 
-__Portfolio:__ [github pages](https://tocrossbridge.github.io)
+__Portfolio:__
+> [github pages](https://tocrossbridge.github.io) |
+> [codepen](https://codepen.io/bridgetocross) |
+> [medium](medium.com/@bridgetocross)
+
 
 __Languages:__ Javascript, PHP 
 
