@@ -25,7 +25,7 @@ __Software:__ Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
 
 ## 🌸 About me 🦕🌠
 
-UI Designer | Software engineer 🌱🐛
+UI Designer | Software engineer 🌱🐛 | Journalism student
 
 <img align="right" width="400" height="600" src="./selfie.jpg">
 
