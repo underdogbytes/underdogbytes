@@ -5,6 +5,8 @@
 ## 💾 Tech Stack 
 
 __Language&&Framework:__ current in love with Javascript & Vue, 𝘹𝘰𝘹𝘰 ♡
+<br/>
+(my exs are PHP/Laravel, Java & Python)
 
 __Portfolio:__
 
