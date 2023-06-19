@@ -10,24 +10,20 @@ __Language&&Framework:__ current in love with Javascript & Vue, 𝘹𝘰𝘹𝘰
 
 __Portfolio:__
 
-[<img src="./src/github.svg" width="30" alt="Github" /> github pages](https://tocrossbridge.github.io)
-
-[<img src="./src/codepen.svg" width="30" alt="Codepen" /> codepen](https://codepen.io/bridgetocross)
-
-
-
-<br/>
+[github pages](https://tocrossbridge.github.io)
+|
+[codepen](https://codepen.io/bridgetocross)
 
 ## 🍩 Design Stack
 
 __Portfolio:__ 
 
-[<img src="./src/behance.svg" width="30" alt="Behance" /> behance](https://www.behance.net/bridgetocross)
+[behance](https://www.behance.net/bridgetocross)
 
 
 __Illustrations:__
 
-[<img src="./src/deviantart.svg" width="30" alt="Deviantart" /> deviantart](https://www.deviantart.com/losingmybridge)
+[deviantart](https://www.deviantart.com/losingmybridge)
 
 __Software xp:__
 
@@ -44,7 +40,7 @@ __Software xp:__
 
 ## 🌸 About me 🦕🌠
 
-UI Designer | Software engineer 🌱🐛 | Journalism student
+UI Designer | Software engineer 🌱🐛
 
 <img align="right" width="250" src="./src/selfie.jpg">
 
