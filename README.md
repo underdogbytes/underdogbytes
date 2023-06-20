@@ -1,12 +1,10 @@
 ## Aoba! Bão? 👋
 
-<br/>
+### 💾 Tech Stack 
 
-## 💾 Tech Stack 
-
-__Language&&Framework:__ current in love with Javascript & Vue, 𝘹𝘰𝘹𝘰 ♡
+__Language&&Framework:__ current in love with Javascript & Vue/React, 𝘹𝘰𝘹𝘰 ♡
 <br/>
-(my exs are PHP/Laravel, Java & Python)
+(my exs are PHP/Laravel, Java/Spring & Python/Flask/Django)
 
 __Portfolio:__
 
@@ -14,7 +12,7 @@ __Portfolio:__
 |
 [codepen](https://codepen.io/bridgetocross)
 
-## 🍩 Design Stack
+### 🍩 Design Stack
 
 __Portfolio:__ 
 
@@ -38,7 +36,7 @@ __Software xp:__
 
 <br/>
 
-## 🌸 About me 🦕🌠
+### 🌸 About me 🦕🌠
 
 UI Designer | Software engineer 🌱🐛
 
@@ -56,7 +54,6 @@ Constantine, Junji Ito, Spy x Family, human brain, sharks and yo, science bitch!
 ### Hobbies
 Sometimes, I shoot people 📷
 
-<br/>
 <br/>
 <br/>
 <br/>
