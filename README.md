@@ -6,11 +6,6 @@
 [<img src="./src/spotify.svg" width="25" alt="Spotify" />](https://open.spotify.com/user/22agzvjyx4zninl5oba3tfcty?si=57d6fa61699c4dad)
 [<img src="./src/medium.svg" width="25" alt="Medium" />](medium.com/@bridgetocross)
 
-### 💾 Tech Stack 
-
-__Language&&Framework:__ current in love with Javascript & Vue/React, 𝘹𝘰𝘹𝘰 ♡
-<br/>
-
 ## 💾 Stuff  /ᐠ - ˕ -マ
 
 HackerRank: https://www.hackerrank.com/profile/bridgetocross
