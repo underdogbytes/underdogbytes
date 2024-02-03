@@ -47,9 +47,11 @@ Patreon: https://patreon.com/btrz
 <details>
   <summary>CSS drawings</summary>
   Idk, sometimes I just wanna prove to myself that I can do some stupid ideas using only CSS ^-^''
+
   | Description     | Git's Repo |
   | --------------  | ---------- |
   | Transforming boring person in Blink 182 fan | https://github.com/tocrossbridge/blink_guy
+  
 </details>
 
 <details>
