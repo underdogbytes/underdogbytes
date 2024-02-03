@@ -25,7 +25,7 @@ Patreon: https://patreon.com/btrz
 <br/>
 
 ## 📕 Organized List of Projects at this Github ✨
-Yeah, I know how sucks to go into someone's github and wonder: what repo should I open?
+Yeah, I know how sucks to go into someone's github and wonder: what repo should I open?<br>
 So as Jack the Ripper would say: let's go by parts! 🔪
 
 <details>
