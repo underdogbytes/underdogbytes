@@ -25,6 +25,9 @@ Patreon: https://patreon.com/btrz
 <br/>
 
 ## 📕 Organized List of Projects at this Github ✨
+Yeah, I know how sucks to go into someone's github and wonder: what repo should I open?
+So as Jack the Ripper would say: let's go by parts! 🔪
+
 <details>
   <summary>👩‍🎨 MASTER PIECES</summary>
 
@@ -45,13 +48,13 @@ Patreon: https://patreon.com/btrz
 </details>
 
 <details>
-  <summary>CSS drawings</summary>
+  <summary>🖌️ CSS drawings</summary>
   Idk, sometimes I just wanna prove to myself that I can do some stupid ideas using only CSS ^-^''
 
   | Description     | Git's Repo |
   | --------------  | ---------- |
   | Transforming boring person in Blink 182 fan | https://github.com/tocrossbridge/blink_guy
-  
+
 </details>
 
 <details>
