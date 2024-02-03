@@ -18,8 +18,17 @@ Behance: https://www.behance.net/bridgetocross
 
 Devianart: https://www.deviantart.com/losingmybridge
 
-
 <br/>
+
+## 📕 Organized List of Projects at this Github ✨
+<details>
+  <summary>Testing libs:</summary>
+| Lib's name     | Git's Repo |
+| ----------     | ---------- |
+| Readline-sync | https://github.com/tocrossbridge/readline-sync |
+</details>
+
+
 
 ## 🪐 About me 🦕🌠 
 
