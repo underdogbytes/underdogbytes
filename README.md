@@ -18,15 +18,46 @@ Behance: https://www.behance.net/bridgetocross
 
 Devianart: https://www.deviantart.com/losingmybridge
 
+YouTube Channel: https://www.youtube.com/@descongestionante_nasal
+
+Patreon: https://patreon.com/btrz
+
 <br/>
 
 ## 📕 Organized List of Projects at this Github ✨
 <details>
-  <summary>Testing libs:</summary>
+  <summary>👩‍🎨 MASTER PIECES</summary>
 
-| Lib's name     | Git's Repo |
-| ----------     | ---------- |
-| Readline-sync | https://github.com/tocrossbridge/readline-sync |
+  <small>Ou como diria um colega de trabalho: primeiro fazemos funcionar, depois vamos para o estado da arte</small>
+
+  | Master piece name | Techs used | Git Repo   |
+  | ----------------- | ---------- | ---------- |
+
+</details>
+
+<details>
+  <summary>🧙 TESTING LIBS:</summary>
+
+  | Lib's name     | Git's Repo |
+  | ----------     | ---------- |
+  | Readline-sync | https://github.com/tocrossbridge/readline-sync |
+
+</details>
+
+<details>
+  <summary>CSS drawings</summary>
+  Idk, sometimes I just wanna prove to myself that I can do some stupid ideas using only CSS ^-^''
+  | Description     | Git's Repo |
+  | --------------  | ---------- |
+  | Transforming boring person in Blink 182 fan | https://github.com/tocrossbridge/blink_guy
+</details>
+
+<details>
+  <summary>🤓 FREE KNOWLEDGE</summary>
+
+  | Description     | Git's Repo |
+  | --------------- | ---------- |
+  | Descomplica gabaritos - College Descomplica answer sheets | https://github.com/tocrossbridge/descomplica-ti
 
 </details>
 
