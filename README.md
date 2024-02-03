@@ -23,9 +23,11 @@ Devianart: https://www.deviantart.com/losingmybridge
 ## 📕 Organized List of Projects at this Github ✨
 <details>
   <summary>Testing libs:</summary>
+
 | Lib's name     | Git's Repo |
 | ----------     | ---------- |
 | Readline-sync | https://github.com/tocrossbridge/readline-sync |
+
 </details>
 
 
