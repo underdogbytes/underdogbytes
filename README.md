@@ -39,6 +39,15 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 </details>
 
 <details>
+  <summary>🗿 STATIC PAGES:</summary>
+
+  Websites with no back-end, only with HTML, CSS and Javascript at front-end
+  
+  | Description     | Git's Repo |
+  | --------------  | ---------- |
+  
+</details>
+<details>
   <summary>🧙 TESTING LIBS:</summary>
 
   | Lib's name     | Git's Repo |
