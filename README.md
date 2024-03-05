@@ -56,7 +56,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   | ----------------- | ---------- | ---------- |
   | Tamagotchi        | JavaScript | [https://github.com/tocrossbridge/tamagotchi] |
   
-<details>
+</details>
   
 <details>
   <summary>🧙 TESTING LIBS:</summary>
