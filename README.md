@@ -49,7 +49,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   
 </details>
 
-<detail>
+<details>
   <summary>🎮 GAMES:</summary>
   
   | Description       | Stack used | Git Repo   |
