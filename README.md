@@ -35,6 +35,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 
   | Master piece name | Techs used | Git Repo   |
   | ----------------- | ---------- | ---------- |
+  | Portfolio         | PHP/Laravel| [https://github.com/tocrossbridge/portfolio] |
 
 </details>
 
@@ -47,12 +48,22 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   | --------------  | ---------- |
   
 </details>
+
+<detail>
+  <summary>🎮 GAMES:</summary>
+  
+  | Description       | Stack used | Git Repo   |
+  | ----------------- | ---------- | ---------- |
+  | Tamagotchi        | JavaScript | [https://github.com/tocrossbridge/tamagotchi] |
+  
+<details>
+  
 <details>
   <summary>🧙 TESTING LIBS:</summary>
 
   | Lib's name     | Git's Repo |
   | ----------     | ---------- |
-  | Readline-sync | https://github.com/tocrossbridge/readline-sync |
+  | Readline-sync  | [https://github.com/tocrossbridge/readline-sync] |
 
 </details>
 
@@ -62,7 +73,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 
   | Description     | Git's Repo |
   | --------------  | ---------- |
-  | Transforming boring person in Blink 182 fan | https://github.com/tocrossbridge/blink_guy
+  | Transforming boring person in Blink 182 fan | [https://github.com/tocrossbridge/blink_guy]
 
 </details>
 
@@ -71,7 +82,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 
   | Description     | Git's Repo |
   | --------------- | ---------- |
-  | Descomplica gabaritos - College Descomplica answer sheets | https://github.com/tocrossbridge/descomplica-ti
+  | Descomplica gabaritos - College Descomplica answer sheets | [https://github.com/tocrossbridge/descomplica-ti]
 
 </details>
 
