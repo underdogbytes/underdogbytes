@@ -29,7 +29,7 @@ Yeah, I know how sucks to go into someone's github and wonder: what repo should 
 So as Jack the Ripper would say: let's go by parts! 🔪
 
 <details>
-  <summary>👩‍🎨 MASTER PIECES</summary>
+  <summary>👩‍🎨 <b>Master Pieces</b> </summary>
 
   <small>Ou como diria um colega de trabalho: primeiro fazemos funcionar, depois vamos para o estado da arte</small>
 
@@ -40,7 +40,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 </details>
 
 <details>
-  <summary>🗿 STATIC PAGES:</summary>
+  <summary>🗿 <b>Static Pages</b> </summary>
 
   Websites with no back-end, only with HTML, CSS and Javascript at front-end
   
@@ -50,7 +50,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 </details>
 
 <details>
-  <summary>🎮 GAMES:</summary>
+  <summary>🎮 <b>Games</b> </summary>
   
   | Description       | Stack used | Git Repo   |
   | ----------------- | ---------- | ---------- |
@@ -59,7 +59,8 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 </details>
   
 <details>
-  <summary>🧙 TESTING LIBS:</summary>
+  <summary>🧙 <b>Using libs</b> </summary>
+  Demonstrating that I know how to use libraries
 
   | Lib's name     | Git's Repo |
   | ----------     | ---------- |
@@ -68,7 +69,17 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 </details>
 
 <details>
-  <summary>🖌️ CSS drawings</summary>
+  <summary>⚗️ <b>Pure JS</b> </summary>
+  Projects only using JavaScript ^^
+
+  | Description     | Git's Repo |
+  | --------------  | ---------- |
+  | Shopping cart   | [https://github.com/tocrossbridge/carrinho-compras] |
+  
+</details>
+
+<details>
+  <summary>🖌️ <b>CSS drawings</b> </summary>
   Idk, sometimes I just wanna prove to myself that I can do some stupid ideas using only CSS ^-^''
 
   | Description     | Git's Repo |
@@ -78,7 +89,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 </details>
 
 <details>
-  <summary>🤓 FREE KNOWLEDGE</summary>
+  <summary>🤓 <b>Free Knowledge</b> </summary>
 
   | Description     | Git's Repo |
   | --------------- | ---------- |
