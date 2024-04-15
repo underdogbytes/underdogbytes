@@ -29,24 +29,19 @@ Yeah, I know how sucks to go into someone's github and wonder: what repo should 
 So as Jack the Ripper would say: let's go by parts! 🔪
 
 <details>
-  <summary>👩‍🎨 <b>Master Pieces</b> </summary>
+  <summary>👩‍🎨 <b>Master Pieces</b> - current projects </summary>
 
-  <small>Ou como diria um colega de trabalho: primeiro fazemos funcionar, depois vamos para o estado da arte</small>
+  <small>Ou como diria um antigo colega de trabalho: primeiro fazemos funcionar, depois vamos para o estado da arte</small>
 
-  | Master piece name | Techs used | Git Repo   |
-  | ----------------- | ---------- | ---------- |
-  | Portfolio         | PHP/Laravel| [https://github.com/tocrossbridge/portfolio] |
+  <small>Esses projetos são minhas Monalisas 💖 Por que são bons? Não, porque não entreguei até hoje a versão final ✨</small>
 
-</details>
+  <small>Todos os projetos abaixo são os que trabalho frequentemente, então se você quer saber como eu codo atualmente, olhe esses projetos:</small>
 
-<details>
-  <summary>🗿 <b>Static Pages</b> </summary>
+  | Master piece name | Project Type | Techs used | Git Repo   |
+  | ----------------- | ------------ | ---------- | ---------- |
+  | Portfolio         | Site         | PHP/Laravel | [https://github.com/tocrossbridge/portfolio] |
+  | Gerencia minhas despesas |   App | Angular |[https://github.com/underdogbytes/angular-gerencia-minhas-despesas]
 
-  Websites with no back-end, only with HTML, CSS and Javascript at front-end
-  
-  | Description     | Git's Repo |
-  | --------------  | ---------- |
-  
 </details>
 
 <details>
@@ -60,7 +55,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   
 <details>
   <summary>🧙 <b>Using libs</b> </summary>
-  Demonstrating that I know how to use libraries
+  Demonstrating that I know how to use some libraries, just like:
 
   | Lib's name     | Git's Repo |
   | ----------     | ---------- |
@@ -80,16 +75,20 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 
 <details>
   <summary>🖌️ <b>CSS drawings</b> </summary>
+  
   Idk, sometimes I just wanna prove to myself that I can do some stupid ideas using only CSS ^-^''
+  
+
+  (ou como diria um antigo colega de faculdade: provar que é virgem e não sai de casa)
 
   | Description     | Git's Repo |
   | --------------  | ---------- |
-  | Transforming boring person in Blink 182 fan | [https://github.com/tocrossbridge/blink_guy]
+  | Transforming boring person in Blink 182 fan | [https://github.com/tocrossbridge/blink_guy] |
 
 </details>
 
 <details>
-  <summary>🤓 <b>Free Knowledge</b> </summary>
+  <summary>🤓 <b>Free Knowledge</b> (e gabaritos FREE.99)</summary>
 
   | Description     | Git's Repo |
   | --------------- | ---------- |
