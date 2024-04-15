@@ -31,12 +31,10 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 <details>
   <summary>👩‍🎨 <b>Master Pieces</b> - current projects </summary>
 
-  <small>Ou como diria um antigo colega de trabalho: primeiro fazemos funcionar, depois vamos para o estado da arte</small>
-
   <small>Esses projetos são minhas Monalisas 💖 Por que são bons? Não, porque não entreguei até hoje a versão final ✨</small>
 
   <small>Todos os projetos abaixo são os que trabalho frequentemente, então se você quer saber como eu codo atualmente, olhe esses projetos:</small>
-
+  
   | Master piece name | Project Type | Techs used | Git Repo   |
   | ----------------- | ------------ | ---------- | ---------- |
   | Portfolio         | Site         | PHP/Laravel | [https://github.com/tocrossbridge/portfolio] |
@@ -57,7 +55,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 </details>
 
 <details>
-  <summary>🖌️ <b>CSS drawings</b> </summary>
+  <summary>🖌️ <b>CSS Arts</b> - drawings with CSS</summary>
   
   Idk, sometimes I just wanna prove to myself that I can do some stupid shit only using CSS ^-^''
 
