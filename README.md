@@ -40,46 +40,28 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   | Master piece name | Project Type | Techs used | Git Repo   |
   | ----------------- | ------------ | ---------- | ---------- |
   | Portfolio         | Site         | PHP/Laravel | [https://github.com/tocrossbridge/portfolio] |
-  | Gerencia minhas despesas |   App | Angular |[https://github.com/underdogbytes/angular-gerencia-minhas-despesas]
+  | Gerencia minhas despesas |   App | Angular | [https://github.com/underdogbytes/angular-gerencia-minhas-despesas] |
 
-</details>
-
-<details>
-  <summary>🎮 <b>Games</b> </summary>
-  
-  | Description       | Stack used | Git Repo   |
-  | ----------------- | ---------- | ---------- |
-  | Tamagotchi        | JavaScript | [https://github.com/tocrossbridge/tamagotchi] |
-  
 </details>
   
 <details>
-  <summary>🧙 <b>Using libs</b> </summary>
+  <summary>🧙 <b>My wild lab</b> ⚗️</summary>
   Demonstrating that I know how to use some libraries, just like:
 
-  | Lib's name     | Git's Repo |
-  | ----------     | ---------- |
-  | Readline-sync  | [https://github.com/tocrossbridge/readline-sync] |
+  | Lib's name     | Project Type | Techs used | Git's Repo |
+  | ----------     | ------------ | ---------- | ---------- |
+  | Readline-sync  | Using lib    | Readline-sync  | [https://github.com/tocrossbridge/readline-sync] |
+  | Shopping cart  | JavaScript | [https://github.com/tocrossbridge/carrinho-compras] |
+  | Tamagotchi     | JavaScript | [https://github.com/tocrossbridge/tamagotchi] |
 
-</details>
-
-<details>
-  <summary>⚗️ <b>Pure JS</b> </summary>
-  Projects only using JavaScript ^^
-
-  | Description     | Git's Repo |
-  | --------------  | ---------- |
-  | Shopping cart   | [https://github.com/tocrossbridge/carrinho-compras] |
-  
 </details>
 
 <details>
   <summary>🖌️ <b>CSS drawings</b> </summary>
   
-  Idk, sometimes I just wanna prove to myself that I can do some stupid ideas using only CSS ^-^''
-  
+  Idk, sometimes I just wanna prove to myself that I can do some stupid shit only using CSS ^-^''
 
-  (ou como diria um antigo colega de faculdade: provar que é virgem e não sai de casa)
+  (ou como diria um antigo colega de faculdade: provar que é virgem e que não sai de casa)
 
   | Description     | Git's Repo |
   | --------------  | ---------- |
