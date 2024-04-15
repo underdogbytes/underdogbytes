@@ -49,8 +49,8 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   | Lib's name     | Project Type | Techs used | Git's Repo |
   | ----------     | ------------ | ---------- | ---------- |
   | Readline-sync  | Using lib    | Readline-sync  | [https://github.com/tocrossbridge/readline-sync] |
-  | Shopping cart  | JavaScript | [https://github.com/tocrossbridge/carrinho-compras] |
-  | Tamagotchi     | JavaScript | [https://github.com/tocrossbridge/tamagotchi] |
+  | Shopping cart  | E-commerce   | JavaScript | [https://github.com/tocrossbridge/carrinho-compras] |
+  | Tamagotchi     | Game         | JavaScript | [https://github.com/tocrossbridge/tamagotchi] |
 
 </details>
 
