@@ -1,30 +1,26 @@
 ## Aoba! Bão? ≽^•⩊•^≼
 
-[<img src="./src/insta.svg" width="25" alt="Instagram" />](https://www.instagram.com/bridgetocross/)
-[<img src="./src/linkedin.svg" width="25" alt="LinkedIn" />](https://www.linkedin.com/in/btrz/)
-[<img src="./src/twitch.svg" width="25" alt="Twitch" />](https://m.twitch.tv/bridgetocross)
-[<img src="./src/spotify.svg" width="25" alt="Spotify" />](https://open.spotify.com/user/22agzvjyx4zninl5oba3tfcty?si=57d6fa61699c4dad)
-[<img src="./src/medium.svg" width="25" alt="Medium" />](medium.com/@bridgetocross)
+## 💾 /ᐠ - ˕ -マ
 
-## 💾 Stuff  /ᐠ - ˕ -マ
+<details>
+  <summary>Social links</summary>
 
-HackerRank: [https://www.hackerrank.com/profile/bridgetocross]
+  | Where? | Link |
+  | ------ | ---- |
+  | HackerRank | [https://www.hackerrank.com/profile/bridgetocross] |
+  | Microsof Learning | [https://learn.microsoft.com/pt-br/users/bridgetocross/] |
+  | Codepen | [https://codepen.io/bridgetocross] |
+  | Behance | [https://www.behance.net/bridgetocross] |
+  | Patreon | [https://patreon.com/btrz] |
+  | Devianart | [https://www.deviantart.com/losingmybridge] |
+  | YouTube | [https://www.youtube.com/@descongestionante_nasal] |
+  | Spotify | [https://open.spotify.com/user/22agzvjyx4zninl5oba3tfcty?si=57d6fa61699c4dad] |
+  | Medium  | [medium.com/@bridgetocross] |
+  | Twitch  | [https://m.twitch.tv/bridgetocross] |
+  | Instagram | [https://www.instagram.com/bridgetocross/] |
+</details>
 
-Microsof Learning: [https://learn.microsoft.com/pt-br/users/bridgetocross/]
-
-Codepen: [https://codepen.io/bridgetocross]
-
-  Behance: [https://www.behance.net/bridgetocross]
-
-Devianart: [https://www.deviantart.com/losingmybridge]
-
-YouTube Channel: [https://www.youtube.com/@descongestionante_nasal]
-
-Patreon: [https://patreon.com/btrz]
-
-<br/>
-
-## 📕 Organized List of Projects at this Github ✨
+## 📕 My Projects ✨
 Yeah, I know how sucks to go into someone's github and wonder: what repo should I open?<br>
 So as Jack the Ripper would say: let's go by parts! 🔪
 
@@ -65,7 +61,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 </details>
 
 <details>
-  <summary>🖌️ <b>CSS Arts</b> - drawings with CSS</summary>
+  <summary><b>CSS Arts</b> - drawings with CSS</summary>
   
   Idk, sometimes I just wanna prove to myself that I can do some stupid shit only using CSS ^-^''
 
@@ -78,16 +74,6 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 </details>
 
 <details>
-  <summary>🧙 <b>My wild lab</b> ⚗️</summary>
-  Demonstrating that I know how to use some libraries, just like:
-
-  | Lib's name     | Project Type | Techs used | Git's Repo |
-  | ----------     | ------------ | ---------- | ---------- |
-  | Readline-sync  | Using lib    | Readline-sync  | [https://github.com/tocrossbridge/readline-sync] |
-  | Shopping cart  | E-commerce   | JavaScript | [https://github.com/tocrossbridge/carrinho-compras] |
-</details>
-
-<details>
   <summary>🤓 <b>Free Knowledge</b> (e gabaritos FREE.99)</summary>
 
   | Description     | Git's Repo |
@@ -95,11 +81,9 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   | Descomplica gabaritos - College Descomplica answer sheets | [https://github.com/tocrossbridge/descomplica-ti]
 </details>
 
-
-
 ## 🪐 About me 🦕🌠 
 
-UI Designer | Software engineer | Idk man LoooL 📺🕹️📷🌱🐛
+UI/UX Designer | Software engineer | Idk man LoooL 📺🕹️📷🌱🐛
 
 Hellow ma beloved oness! :D
 
