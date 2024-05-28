@@ -48,9 +48,18 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 
 <details>
   <summary><b>Games</b></summary>
+  
   | Lib's name | Techs used | Git's Repo |
   | ---------- | ---------- | ---------- |
   | Tamagotchi | JavaScript | [https://github.com/tocrossbridge/tamagotchi] |
+</details>
+
+<details>
+  <summary>Systems</summary>
+  
+  | Lib's name | Techs used | Git's Repo |
+  | ---------- | ---------- | ---------- |
+  | Books | PHP/Laravel | [https://github.com/underdogbytes/system_books.git] |
 </details>
 
 <details>
