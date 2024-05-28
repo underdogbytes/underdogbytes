@@ -50,6 +50,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   | Lib's name | Techs used | Git's Repo |
   | ---------- | ---------- | ---------- |
   | Tamagotchi | JavaScript | [https://github.com/tocrossbridge/tamagotchi] |
+  | NeuroQuest | JavaScript | [https://github.com/underdogbytes/neuro-quest] |
 </details>
 
 <details>
