@@ -41,7 +41,14 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   | Gerencia minhas despesas |   App | Angular | [https://github.com/underdogbytes/angular-gerencia-minhas-despesas] |
 
 </details>
-  
+
+<details>
+  <summary>Websites</summary>
+
+  | Name       |  Techs used  | Git Repo   |
+  | ---------- | ------------ | ---------- |
+  | TrustYou   | Boostrap 4.6 | [https://github.com/underdogbytes/website_trustyou.git]
+</details>
 <details>
   <summary>🧙 <b>My wild lab</b> ⚗️</summary>
   Demonstrating that I know how to use some libraries, just like:
