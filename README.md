@@ -35,7 +35,9 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   | ---------- | ------------ | ---------- |
   | Portfolio  | PHP/Laravel  | [https://github.com/tocrossbridge/portfolio] |
   | TrustYou   | Boostrap 4.6 | [https://github.com/underdogbytes/website_trustyou.git] |
-  | Castlevania | HTML, CSS, JS | [https://github.com/underdogbytes/website_castlevania.git]
+  | Castlevania | HTML, CSS, JS | [https://github.com/underdogbytes/website_castlevania.git] |
+  | BlackSwanBallet | JS/Vue | [https://github.com/underdogbytes/website_blackSwanBallet]|
+  | Hotdogson | JS/Vue | [https://github.com/underdogbytes/hotdogson] |
 </details>
 
 <details>
@@ -55,7 +57,7 @@ So as Jack the Ripper would say: let's go by parts! 🔪
 </details>
 
 <details>
-  <summary>Systems</summary>
+  <summary><b>Systems</b></summary>
   
   | Lib's name | Techs used | Git's Repo |
   | ---------- | ---------- | ---------- |
