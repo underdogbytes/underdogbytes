@@ -34,10 +34,10 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   | Name       |  Techs used  | Git Repo   |
   | ---------- | ------------ | ---------- |
   | Portfolio  | PHP/Laravel  | [https://github.com/tocrossbridge/portfolio] |
+  | Hotdogson | JS/Vue | [https://github.com/underdogbytes/hotdogson] |
+  | BlackSwanBallet | JS/Vue | [https://github.com/underdogbytes/website_blackSwanBallet]|
   | TrustYou   | Boostrap 4.6 | [https://github.com/underdogbytes/website_trustyou.git] |
   | Castlevania | HTML, CSS, JS | [https://github.com/underdogbytes/website_castlevania.git] |
-  | BlackSwanBallet | JS/Vue | [https://github.com/underdogbytes/website_blackSwanBallet]|
-  | Hotdogson | JS/Vue | [https://github.com/underdogbytes/hotdogson] |
 </details>
 
 <details>
