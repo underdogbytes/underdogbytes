@@ -8,19 +8,19 @@
 
 ## 💾 Stuff  /ᐠ - ˕ -マ
 
-HackerRank: https://www.hackerrank.com/profile/bridgetocross
+HackerRank: [https://www.hackerrank.com/profile/bridgetocross]
 
-Microsof Learning: https://learn.microsoft.com/pt-br/users/bridgetocross/
+Microsof Learning: [https://learn.microsoft.com/pt-br/users/bridgetocross/]
 
-Codepen: https://codepen.io/bridgetocross
+Codepen: [https://codepen.io/bridgetocross]
 
-Behance: https://www.behance.net/bridgetocross
+  Behance: [https://www.behance.net/bridgetocross]
 
-Devianart: https://www.deviantart.com/losingmybridge
+Devianart: [https://www.deviantart.com/losingmybridge]
 
-YouTube Channel: https://www.youtube.com/@descongestionante_nasal
+YouTube Channel: [https://www.youtube.com/@descongestionante_nasal]
 
-Patreon: https://patreon.com/btrz
+Patreon: [https://patreon.com/btrz]
 
 <br/>
 
@@ -29,36 +29,28 @@ Yeah, I know how sucks to go into someone's github and wonder: what repo should 
 So as Jack the Ripper would say: let's go by parts! 🔪
 
 <details>
-  <summary>👩‍🎨 <b>Master Pieces</b> - current projects </summary>
-
-  <small>Esses projetos são minhas Monalisas 💖 Por que são bons? Não, porque não entreguei até hoje a versão final ✨</small>
-
-  <small>Todos os projetos abaixo são os que trabalho frequentemente, então se você quer saber como eu codo atualmente, olhe esses projetos:</small>
-  
-  | Master piece name | Project Type | Techs used | Git Repo   |
-  | ----------------- | ------------ | ---------- | ---------- |
-  | Portfolio         | Site         | PHP/Laravel | [https://github.com/tocrossbridge/portfolio] |
-  | Gerencia minhas despesas |   App | Angular | [https://github.com/underdogbytes/angular-gerencia-minhas-despesas] |
-
-</details>
-
-<details>
-  <summary>Websites</summary>
+  <summary><b>Websites</b></summary>
 
   | Name       |  Techs used  | Git Repo   |
   | ---------- | ------------ | ---------- |
-  | TrustYou   | Boostrap 4.6 | [https://github.com/underdogbytes/website_trustyou.git]
+  | Portfolio  | PHP/Laravel  | [https://github.com/tocrossbridge/portfolio] |
+  | TrustYou   | Boostrap 4.6 | [https://github.com/underdogbytes/website_trustyou.git] |
+  | Castlevania | HTML, CSS, JS | [https://github.com/underdogbytes/website_castlevania.git]
 </details>
+
 <details>
-  <summary>🧙 <b>My wild lab</b> ⚗️</summary>
-  Demonstrating that I know how to use some libraries, just like:
+  <summary><b>Apps</b></summary>
 
-  | Lib's name     | Project Type | Techs used | Git's Repo |
-  | ----------     | ------------ | ---------- | ---------- |
-  | Readline-sync  | Using lib    | Readline-sync  | [https://github.com/tocrossbridge/readline-sync] |
-  | Shopping cart  | E-commerce   | JavaScript | [https://github.com/tocrossbridge/carrinho-compras] |
-  | Tamagotchi     | Game         | JavaScript | [https://github.com/tocrossbridge/tamagotchi] |
+  | Name       |  Techs used  | Git Repo   |
+  | ---------- | ------------ | ---------- |
+  | Gerencia minhas despesas | Angular | [https://github.com/underdogbytes/angular-gerencia-minhas-despesas] |
+</details>
 
+<details>
+  <summary><b>Games</b></summary>
+  | Lib's name | Techs used | Git's Repo |
+  | ---------- | ---------- | ---------- |
+  | Tamagotchi | JavaScript | [https://github.com/tocrossbridge/tamagotchi] |
 </details>
 
 <details>
@@ -72,7 +64,16 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   | --------------  | ---------- |
   | Transforming boring person in Blink 182 fan | [https://github.com/tocrossbridge/blink_guy] |
   | It's a pizza | [https://github.com/underdogbytes/pizza] |
+</details>
 
+<details>
+  <summary>🧙 <b>My wild lab</b> ⚗️</summary>
+  Demonstrating that I know how to use some libraries, just like:
+
+  | Lib's name     | Project Type | Techs used | Git's Repo |
+  | ----------     | ------------ | ---------- | ---------- |
+  | Readline-sync  | Using lib    | Readline-sync  | [https://github.com/tocrossbridge/readline-sync] |
+  | Shopping cart  | E-commerce   | JavaScript | [https://github.com/tocrossbridge/carrinho-compras] |
 </details>
 
 <details>
@@ -81,7 +82,6 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   | Description     | Git's Repo |
   | --------------- | ---------- |
   | Descomplica gabaritos - College Descomplica answer sheets | [https://github.com/tocrossbridge/descomplica-ti]
-
 </details>
 
 
