@@ -10,14 +10,6 @@
   | HackerRank | [https://www.hackerrank.com/profile/bridgetocross] |
   | Microsof Learning | [https://learn.microsoft.com/pt-br/users/bridgetocross/] |
   | Codepen | [https://codepen.io/bridgetocross] |
-  | Behance | [https://www.behance.net/bridgetocross] |
-  | Patreon | [https://patreon.com/btrz] |
-  | Devianart | [https://www.deviantart.com/losingmybridge] |
-  | YouTube | [https://www.youtube.com/@descongestionante_nasal] |
-  | Spotify | [https://open.spotify.com/user/22agzvjyx4zninl5oba3tfcty?si=57d6fa61699c4dad] |
-  | Medium  | [medium.com/@bridgetocross] |
-  | Twitch  | [https://m.twitch.tv/bridgetocross] |
-  | Instagram | [https://www.instagram.com/bridgetocross/] |
 </details>
 
 ## 📕 My Projects ✨
