@@ -36,3 +36,12 @@ So as Jack the Ripper would say: let's go by parts! 🔪
   | Transforming boring person in Blink 182 fan | [https://github.com/tocrossbridge/blink_guy] |
   | It's a pizza | [https://github.com/underdogbytes/pizza] |
 </details>
+
+<details>
+  <summary><b>🧙 proving that I know how to do specific stuff</b></summary>
+
+  | Description | Git's Repo |
+  | --------------  | ---------- |
+  | CRUD with JS: controller, model, services | [https://github.com/underdogbytes/system_cars] |
+  | Using readline-sync lib | [https://github.com/underdogbytes/readline-sync] |
+</details>
