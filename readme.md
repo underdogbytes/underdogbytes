@@ -39,7 +39,16 @@
   | --------------  | ---------- |
   | CRUD with JS: controller, model, services | [https://github.com/underdogbytes/system_cars] |
   | Using readline-sync lib | [https://github.com/underdogbytes/readline-sync] |
-  | Custom WordPress Theme | https://github.com/underdogbytes/wp_theme_underdogbytes |
+  | Custom WordPress Theme | [https://github.com/underdogbytes/wp_theme_underdogbytes] |
+  <br>
+  </details>
+
+  <details>
+    <summary>🕹️👾 𝙶𝚊𝚖𝚎𝚜 🎮</summary><br>
+
+  | Description     | Git's Repo |
+  | --------------  | ---------- |
+  | Tamagotchi de Tubarão | [https://github.com/underdogbytes/tamagotchi] |
   <br>
   </details>
   
