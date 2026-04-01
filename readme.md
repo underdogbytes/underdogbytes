@@ -53,7 +53,7 @@
   </details>
   
   <details>
-    <summary>𝙲𝚂𝚂 𝙰𝚛𝚝 (drawings with the purest CSS 👌)</summary><br>
+    <summary>🎨 𝙲𝚂𝚂 𝙰𝚛𝚝 (drawings with the purest CSS 👌)</summary><br>
 
   | Description     | Git's Repo |
   | --------------  | ---------- |
