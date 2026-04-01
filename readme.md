@@ -71,6 +71,6 @@
   <br>
 </details>
 
-<a href="patreon.com/c/btrz">
+<a href="https://patreon.com/c/btrz">
   ˙✧˖°📷 ༘ ⋆｡˚ Support me on Patreon
 </a>
