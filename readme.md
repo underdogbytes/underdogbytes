@@ -23,6 +23,7 @@
   | HackerRank | [https://www.hackerrank.com/profile/bridgetocross] |
   | Microsof Learning | [https://learn.microsoft.com/pt-br/users/bridgetocross/] |
   | Codepen | [https://codepen.io/bridgetocross] |
+  | TryHackMe | [https://tryhackme.com/p/underdogbytes] |
 </details>
 
 <details>
