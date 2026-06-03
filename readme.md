@@ -36,43 +36,43 @@
   <details>
     <summary>🧙 𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝙸 𝚔𝚗𝚘𝚠 𝚑𝚘𝚠 𝚝𝚘 𝚍𝚘 𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚜𝚝𝚞𝚏𝚏</summary><br>
   
-  | Description | Git's Repo |
-  | --------------  | ---------- |
-  | CRUD JavaScript: MVC | [https://github.com/underdogbytes/system_cars] |
-  | CRUD Kotlin: layered architecture and unit tests | [https://github.com/underdogbytes/teste-api-spring-egsys] |
-  | API and docker PHP | [https://github.com/underdogbytes/php_technical_case_tecnofit] |
-  | Using readline-sync lib | [https://github.com/underdogbytes/readline-sync] |
-  | Custom WordPress Theme | [https://github.com/underdogbytes/wp_theme_underdogbytes] |
+  | Description | Tech Stack | Git's Repo |
+  | :--- | :--- | :--- |
+  | **CRUD Kotlin:** Layered architecture and unit tests | `Kotlin`, `Spring Boot` | [Repo 🔗](https://github.com/underdogbytes/teste-api-spring-egsys) |
+  | **API and Docker PHP:** Technical challenge case | `PHP`, `Hyperf`, `Docker` | [Repo 🔗](https://github.com/underdogbytes/php_technical_case_tecnofit) |
+  | **CRUD JavaScript:** MVC architecture pattern | `JavaScript`, `MVC` | [Repo 🔗](https://github.com/underdogbytes/system_cars) |
+  | **Custom WordPress Theme:** Tailored for me by meeee :D | `PHP`, `WordPress` | [Repo 🔗](https://github.com/underdogbytes/wp_theme_underdogbytes) |
+  | **Using readline-sync lib:** CLI interactive tool | `JavaScript`, `Node.js` | [Repo 🔗](https://github.com/underdogbytes/readline-sync) |
   <br>
   </details>
 
   <details>
     <summary>🕹️👾 𝙶𝚊𝚖𝚎𝚜 🎮</summary><br>
 
-  | Description     | Git's Repo |
-  | --------------  | ---------- |
-  | Tamagotchi de Tubarão | [https://github.com/underdogbytes/tamagotchi] |
+  | Description | Tech Stack | Link |
+  | :--- | :--- | :--- |
+  | **Tamagotchi de Tubarão:** Virtual pet using Factory Functions | `JavaScript`, `CSS`, `HTML5` | [Repo 🔗](https://github.com/underdogbytes/tamagotchi) |
   <br>
   </details>
   
   <details>
     <summary>🎨 𝙲𝚂𝚂 𝙰𝚛𝚝 (drawings with the purest CSS 👌)</summary><br>
 
-  | Description     | Git's Repo |
-  | --------------  | ---------- |
-  | Transforming boring person in Blink 182 fan | [https://github.com/tocrossbridge/blink_guy] |
-  | It's a pizza | [https://github.com/underdogbytes/pizza] |
+  | Description | Link |
+  | :--- | :--- |
+  | Transforming a boring person into a Blink-182 fan | [Repo 🔗](https://github.com/tocrossbridge/blink_guy) |
+  | It's a pizza 🍕 | [Repo 🔗](https://github.com/underdogbytes/pizza) |
   <br>
   </details>
 </details>
 
 
 <details>
-  <summary>📂 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗</summary>
+  <summary>📂 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗</summary><br>
   
-  | Description     | Git's Repo |
-  | --------------  | ---------- |
-  | Cadê minha Araucária? | [https://github.com/underdogbytes/cade-minha-araucaria] |
+  | Name | Description | Tech Stack | Link |
+  | :--- | :--- | :--- | :--- |
+  | **Cadê minha Araucária?** 🌲 | Engage local community to protect Araucarias | `PHP`, `Laravel` | [Repo 🔗](https://github.com/underdogbytes/cade-minha-araucaria) , [Prod 🔗](https://cademinhaaraucaria.online) |
   <br>
 </details>
 
