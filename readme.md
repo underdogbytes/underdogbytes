@@ -69,8 +69,10 @@
 
 <details>
   <summary>📂 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗</summary>
-  <br>
-  Coming soon!
+  
+  | Description     | Git's Repo |
+  | --------------  | ---------- |
+  | Cadê minha Araucária? | [https://github.com/underdogbytes/cade-minha-araucaria] |
   <br>
 </details>
 
