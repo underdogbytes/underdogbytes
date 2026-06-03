@@ -27,7 +27,16 @@
 </details>
 
 <details>
-  <summary>🖥️ 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ≽(•⩊ •マ≼</summary>
+  <summary>📂 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗</summary><br>
+  
+  | Name | Description | Tech Stack | Link |
+  | :--- | :--- | :--- | :--- |
+  | **Cadê minha Araucária?** 🌲 | Engage local community to protect Araucarias | `PHP`, `Laravel` | [Repo 🔗](https://github.com/underdogbytes/cade-minha-araucaria) , [Prod 🔗](https://cademinhaaraucaria.online) |
+  <br>
+</details>
+
+<details>
+  <summary>🖥️ 𝙾𝚝𝚑𝚎𝚛 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ≽(•⩊ •マ≼</summary>
   <br>
   Yeah, I know how sucks to go into someone's github and wonder: what repo should I open?<br>
   So as Jack the Ripper would say: let's go by parts! 🔪
@@ -64,16 +73,6 @@
   | It's a pizza 🍕 | [Repo 🔗](https://github.com/underdogbytes/pizza) |
   <br>
   </details>
-</details>
-
-
-<details>
-  <summary>📂 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗</summary><br>
-  
-  | Name | Description | Tech Stack | Link |
-  | :--- | :--- | :--- | :--- |
-  | **Cadê minha Araucária?** 🌲 | Engage local community to protect Araucarias | `PHP`, `Laravel` | [Repo 🔗](https://github.com/underdogbytes/cade-minha-araucaria) , [Prod 🔗](https://cademinhaaraucaria.online) |
-  <br>
 </details>
 
 <a href="https://patreon.com/c/btrz">
